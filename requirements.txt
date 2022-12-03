@@ -1,0 +1,7 @@
+fastai>=2.0.0
+graphviz
+matplotlib
+pandas
+scikit_learn
+sentencepiece
+gradio>=3.12.0
